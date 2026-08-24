@@ -50,3 +50,6 @@ auto badge farming entry 15
 
 ### entree 16
 auto badge farming entry 16
+
+### entree 17
+auto badge farming entry 17
