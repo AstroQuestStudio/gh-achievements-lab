@@ -62,3 +62,6 @@ auto badge farming entry 19
 
 ### entree 20
 auto badge farming entry 20
+
+### entree 21
+auto badge farming entry 21
