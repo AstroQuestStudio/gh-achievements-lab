@@ -44,3 +44,6 @@ auto badge farming entry 13
 
 ### entree 14
 auto badge farming entry 14
+
+### entree 15
+auto badge farming entry 15
