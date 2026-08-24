@@ -26,3 +26,6 @@ auto badge farming entry 7
 
 ### entree 8
 auto badge farming entry 8
+
+### entree 9
+auto badge farming entry 9
