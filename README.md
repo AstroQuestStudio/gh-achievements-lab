@@ -11,3 +11,6 @@ Deuxieme PR, commit co-signe pour Pair Extraordinaire.
 
 ### entree 3
 auto badge farming entry 3
+
+### entree 4
+auto badge farming entry 4
